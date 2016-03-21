@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(45): warning C4129: 'p': unrecognized character escape sequence
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(46): warning C4129: 'p': unrecognized character escape sequence
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(99): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(134): warning C4129: 'p': unrecognized character escape sequence
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(167): warning C4715: 'Send_Buf': not all control paths return a value
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(178): warning C4715: 'Connect_Shutdown': not all control paths return a value
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(187): warning C4715: 'Check_Socket': not all control paths return a value
+d:\vs2015\consoleapplication5\consoleapplication5\source.cpp(125): warning C4715: 'binaryread': not all control paths return a value
+  ConsoleApplication5.vcxproj -> D:\VS2015\ConsoleApplication5\Debug\ConsoleApplication5.exe
